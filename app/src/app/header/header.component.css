@@ -1,0 +1,10 @@
+header {
+    background: orangered;
+}
+
+h1 {
+    font-weight: bold;
+    color: white;
+    padding: 0.5em;
+    margin: 0px;
+}

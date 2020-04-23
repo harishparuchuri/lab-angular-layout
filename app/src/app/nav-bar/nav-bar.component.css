@@ -1,0 +1,27 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+hr {
+    background-color: orangered;
+}
+
+nav {
+    margin: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 1em;
+    font-weight: bold;
+    display: flex;
+}
+
+li a {
+    padding: 1em;
+}
+
+li a:hover {
+    background: orangered;
+}
